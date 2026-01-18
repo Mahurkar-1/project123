@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is Generative AI?",
+    "answer": "Generative AI refers to artificial intelligence that can generate new content, such as text, images, music, and code. It uses models like GANs, VAEs, and Transformers."
+  },
+  {
+    "question": "What are some applications of Generative AI?",
+    "answer": "Applications of Generative AI include text generation (e.g., ChatGPT), image synthesis (e.g., DALL·E), music creation, code generation, and drug discovery."
+  },
+  {
+    "question": "What is the difference between Generative AI and Traditional AI?",
+    "answer": "Traditional AI typically focuses on prediction or classification, while Generative AI creates new content based on learned data patterns."
+  },
+  {
+    "question": "Which models are commonly used in Generative AI?",
+    "answer": "Common models include Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Transformer-based models like GPT."
+  }
+]

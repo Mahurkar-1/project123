@@ -1,4 +1,4 @@
-#[
+[
   {
     "question": "What is Generative AI?",
     "answer": "Generative AI refers to artificial intelligence that can generate new content, such as text, images, music, and code. It uses models like GANs, VAEs, and Transformers."
